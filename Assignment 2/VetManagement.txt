@@ -1,0 +1,40 @@
+Pets
+type Dog
+size Large
+name Gavin
+weight 50.0
+age 50
+doctor Ayden
+type cat
+size large
+name dog
+weight 3.0
+age 4
+doctor no doctor assigned
+type cat
+size small
+name Lara
+weight 4.0
+age 5
+doctor Joao
+type dog
+size large
+name Biro
+weight 15.0
+age 12
+doctor Maria
+type cat
+size large
+name Benny
+weight 7.0
+age 10
+doctor no doctor assigned
+Doctors
+name Ayden
+specialisation Dog
+name Joao
+specialisation cat
+name Maria
+specialisation dog
+name Josh
+specialisation Cat
